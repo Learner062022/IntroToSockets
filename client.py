@@ -1,3 +1,4 @@
+"""This is a demonstrations of sockets from the class"""
 import socket
 
 SERVER_PORT = 5000
